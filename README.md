@@ -16,4 +16,14 @@ The data is scraped from the [Hawaii Department of Health](https://health.hawaii
 While the script can be run in aggregate using the terminal, I often run it in blocks to control the pop-up visualizations. I would recommend opening in an IDE per the below and running in sections.
 
 <!-- ![Image of how-to](./how_to.png) -->
-<img src="how_to.png" width="500" height="250">
+<!-- <img src="how_to.png" width="500" height="250"> -->
+```javascript
+# Clone this repository
+$ git clone https://github.com/levidantzinger/hawaii_covid_forecast.git
+
+# Go to this repository
+$ cd hawaii_covid_forecast
+
+# Open the main file (IDE represents the editor of your choice)
+$ IDE dd_model.py
+```
