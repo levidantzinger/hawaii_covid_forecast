@@ -6,11 +6,11 @@ The data is scraped from the [Hawaii Department of Health](https://health.hawaii
 
 ### Projection of Hospitalizations (Bokeh Visualization)
 <!-- ![Image of Bokeh Vis (Hospitalizations)](./bokeh_hospitalizations.png) -->
-<img src="bokeh_hospitalizations.png" width="500" height="250">
+<img src="/images/bokeh_hospitalizations.png" width="500" height="250">
 
 ### Cases Per 100k by County (Plotly Visualization)
 <!-- ![Image of Plotly Vis (Cases per 100k)](./cases_per_100k.png) -->
-<img src="cases_per_100k.png" width="500" height="250">
+<img src="/images/cases_per_100k.png" width="500" height="250">
 
 ## How-to:
 While the script can be run in aggregate using the terminal, I often run it in blocks to control the pop-up visualizations. I would recommend opening in an IDE per the below and running in sections.
