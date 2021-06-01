@@ -1,3 +1,10 @@
+# Mac
+/.idea
+__pycache__
+
+# Local
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
