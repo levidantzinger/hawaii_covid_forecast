@@ -1,2 +1,2 @@
-chart_studio/* linguist-documentation
-cdc_forecasts/*.html linguist-documentation
+chart_studio/* linguist-vendored
+cdc_forecasts/* linguist-vendored
