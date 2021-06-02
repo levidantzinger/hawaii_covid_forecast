@@ -17,7 +17,7 @@ While the script can be run in aggregate using the terminal, I often run it in b
 
 <!-- ![Image of how-to](./how_to.png) -->
 <!-- <img src="how_to.png" width="500" height="250"> -->
-```javascript
+```
 # Clone this repository
 $ git clone https://github.com/levidantzinger/hawaii_covid_forecast.git
 
